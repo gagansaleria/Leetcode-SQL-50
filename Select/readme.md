@@ -1,4 +1,6 @@
-# Solved Problems
+# Select Statements
+
+The following problems primarily target SELECT statements, focusing on retrieving and filtering data efficiently.
 
 ### 1. Recyclable and Low Fat Products
 **Question:** Write a solution to find the ids of products that are both low fat and recyclable. Return the result table in any order.
