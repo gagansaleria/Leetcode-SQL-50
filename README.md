@@ -24,5 +24,13 @@ You can check out my Leetcode profile and the problems I’ve solved [here](http
 
 **7. Advanced String Functions / Regex / Clause-** Harness the full potential of SQL’s string manipulation and regex capabilities.
 
-Stay Tuned!
-As I continue solving these problems, this repository will grow with more solutions and insights. Star this repo to keep up with my progress and don’t forget to check out my Leetcode profile for more!
+## Stay Tuned!
+As I continue solving these problems, this repository will grow with more solutions and insights. Star this repo to keep up with my progress !
+
+## Contact
+
+If you have any questions or would like to discuss in more detail, feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/gagansays/).
+
+---
+
+Thank you for visiting this repository. I hope you find this informative and insightful!
